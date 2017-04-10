@@ -26,7 +26,8 @@
 ### Testing instructions
 
 * All questions have jar files generated.
-* Testing instructions will be found inside each Question folder in a text file named "README HOW TO".
+* Testing instructions will be found inside documentation of each question.
 * All events will be logged in `log.txt` in the presently working directory directory.
-* Documentation for each question is inside each question folder.
+* Documentation for each question is inside docs folder.
 * PDF for class diagrams are uploaded under name Q1 and Q2.
+* Please see the documentation for parameter list of main() of each question.
