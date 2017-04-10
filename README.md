@@ -31,3 +31,6 @@
 * Documentation for each question is inside docs folder.
 * PDF for class diagrams are uploaded under name Q1 and Q2.
 * Please see the documentation for parameter list of main() of each question.
+* Use NetBeans IDE to build the projects.
+* Example to run the project :- java -jar "C:\Users\Debadutta Godnaik\Documents\NetBeansProjects\ValentineWeek9\dist\ValentineWeek9.jar" 1000 10 5
+
